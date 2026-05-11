@@ -1,0 +1,11 @@
+{
+  "name": "agentic-coding-demo",
+  "type": "module",
+  "scripts": {
+    "start": "tsx hello.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
